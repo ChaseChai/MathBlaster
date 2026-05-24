@@ -82,8 +82,8 @@
 
 ```bash
 # 1. 克隆代码库
-git clone https://github.com/ChaseChai/EEapp.git
-cd EEapp/math-blaster-web
+git clone https://github.com/ChaseChai/MathBlaster.git
+cd MathBlaster
 
 # 2. 安装依赖
 npm install
