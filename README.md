@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# 🖋️ MathBlaster (数学爆破者) 
+# 🖋️ MathBlaster 
 **—— 东方墨韵数学交互游戏 (Eastern Modernism Math Game)**
 
 [![Play Now](https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E6%B8%B8%E7%8E%A9-Play_Online-success?style=for-the-badge&logo=vercel)](https://ChaseChai.github.io/MathBlaster)
